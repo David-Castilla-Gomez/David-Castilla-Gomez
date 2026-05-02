@@ -8,12 +8,16 @@ Outside engineering, I built **ElReyGuiri** (2014–2025), a Formula 1 content b
 
 ## 🏆 Highlights
 
+**Academic**
 - 🥇 **Matrícula de Honor 10/10** — BSc Thesis at University of Cantabria · *"Dynamic simulation tool for a Formula racing vehicle"* (MSC ADAMS)
 - 🎓 **Distinction 71.5/100** — MSc Dissertation at Oxford Brookes · *"Realistic Driver Model for Lap Time Simulation"*
 - 🎓 **Distinction 73.5/100** — Composite Design and Impact Modelling, Oxford Brookes
-- 📐 **EBAU 9.41/10** — University entrance exam (top tier nationally in Spain)
 - 🥇 **Matrícula de Honor 9.5/10** — Automobiles (BSc elective, University of Cantabria)
-- 📺 **525K+ followers** built across multi-platform F1 content brand (2014–2025)
+- 📐 **EBAU 9.41/10** — University entrance exam (top tier nationally in Spain)
+
+**Motorsport & Community**
+- 🏎️ **Top 13 — F1 Esports Series 2019 Playoff** (qualified through Pro Draft, official Formula 1 esports competition)
+- 📺 **525K+ followers** built across multi-platform F1 content brand (2014–2025), participated in Twitch Rivals F1
 
 ## 🎓 Education
 
@@ -34,14 +38,22 @@ Outside engineering, I built **ElReyGuiri** (2014–2025), a Formula 1 content b
 
 ## 🛠️ Stack
 
-`Python` · `C/C++` · `Fortran 95` · `MATLAB` · `TypeScript / React Native` · `PyTorch` · `NumPy / Pandas` · `Git`
+**Programming** · `Python` · `C/C++` · `Fortran 95` · `MATLAB` · `Octave` · `Bash` · `TypeScript / React Native`
+**ML / AI** · `PyTorch` · `TensorFlow` · `Scikit-Learn` · `NumPy` · `Pandas` · `Google Colab`
+**Simulation & CAE** · `MSC ADAMS` · `Star CCM+` · `Simulink` · `LS-Dyna` · `Nastran-Patran` · `Comsol Multiphysics` · `AVL` · `Working Model` · `Midas Civil`
+**CAD / CAM** · `Siemens NX` · `CATIA V5` · `SolidWorks` · `Autodesk Inventor` · `Mastercam 2021`
+**MBSE & PLM** · `Capella` · `Siemens SMW` · `Teamcenter`
+**Sim Racing** · `iRacing` · `rFactor` · `Assetto Corsa`
+**Tools** · `Git` · `Microsoft Office` · `Canva` · `Photoshop`
 
 ## 🎖️ Certifications
 
 - **Machine Learning Specialization** — *DeepLearning.AI* (Supervised Learning, Advanced Algorithms, Unsupervised & Reinforcement Learning)
 - **Python & Machine Learning Mastery** (3 courses) — *MLNOW Inc.*
 - **Programa Emprende y Acelera** — *EOI – Escuela de Organización Industrial y Negocios*
-- **Race Car Aerodynamics** — *JKF Consultants UK* · **Applied Vehicle Dynamics** — *OptimumG* · **Simulink Fundamentals** — *MathWorks*
+- **Vehicle Dynamics seminars** (2 courses) — *OptimumG*
+- **Race Car Aerodynamics: the Definitive Course** — *JKF Consultants UK*
+- **Simulink Fundamentals** — *MathWorks*
 - **English**: *Cambridge FCE* · *IELTS Academic 6.5* · MSc completed entirely in English at Oxford Brookes.
 
 ## 📫 Connect
