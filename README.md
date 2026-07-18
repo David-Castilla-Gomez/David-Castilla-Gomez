@@ -30,8 +30,8 @@ Outside engineering, I built **ElReyGuiri** (2014–2025), a Formula 1 content b
 
 ## 🔬 Currently working on
 
-- **SiSER v6** · scaling the Spanish-language LLM and writing the technical paper for arXiv submission.
-- **Cornamusa** · stabilising v1.7+ and adding standard-library coverage.
+- **[Ingenioso Intelecto](https://github.com/David-Castilla-Gomez/ingenioso-intelecto)** · language models trained **from scratch** for Spanish Golden Age literature (*Siglo de Oro*), with a purpose-built stylistic-fidelity evaluation framework — all on consumer hardware. Paper in preparation.
+- **[Cornamusa](https://github.com/David-Castilla-Gomez/Cornamusa)** · a dynamic interpreted programming language in Spanish; stabilising v1.7+ and adding standard-library coverage.
 - **MBSE / Systems Engineering** · workflows with Capella, Siemens NX and Teamcenter at Navantia.
 
 ## 🛠️ Stack
