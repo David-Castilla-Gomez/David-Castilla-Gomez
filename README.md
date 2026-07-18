@@ -2,8 +2,6 @@
 
 Mechanical engineer turned AI/systems builder. Currently pursuing an **MSc in Industrial Mathematics (M2I)** at UPM, focused on numerical methods, optimization, scientific computing and applied machine learning. I split my time between Model-Based Systems Engineering at **Navantia** (defense industry), open-source AI/systems projects and applied research.
 
-I'm currently scaling [**SiSER**](https://github.com/David-Castilla-Gomez/Castilla-AI), a 242M-parameter Spanish-language LLM trained from scratch for Golden Age literature with a custom benchmark (paper in preparation). I also built [**Cornamusa**](https://github.com/David-Castilla-Gomez/Cornamusa), a production-ready Spanish-language interpreted programming language with bytecode VM and generational GC, and an [**algorithmic trading system**](https://github.com/David-Castilla-Gomez/Algorithmic-Trading-Castilla) live on paper trading since March 2026.
-
 Outside engineering, I built **ElReyGuiri** (2014–2025), a Formula 1 content brand reaching **525K+ combined followers** across Twitter (250K), Twitch (150K), YouTube (65K) and Instagram (60K) — participated in Twitch Rivals F1 alongside top Spanish streamers.
 
 ## 🏆 Highlights
