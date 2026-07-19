@@ -5,8 +5,8 @@ Defense engineer currently pursuing an **MSc in Industrial Mathematics (M2I)** a
 ## 🎓 Education
 
 - **2025 – 2026** · MSc Industrial Mathematics (M2I), *UPM* · Madrid
-- **2022 – 2023** · MSc Motorsport Engineering — *Merit*, *Oxford Brookes University* · Oxford
-- **2018 – 2022** · BSc Mechanical Engineering — *Notable* (7.34/10), *University of Cantabria* · Santander
+- **2022 – 2023** · MSc Motorsport Engineering — *Oxford Brookes University* · Oxford
+- **2018 – 2022** · BSc Mechanical Engineering — *University of Cantabria* · Santander
 
 ## 🔬 Currently working on
 
