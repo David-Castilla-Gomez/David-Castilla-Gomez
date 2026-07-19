@@ -4,19 +4,6 @@ Defense engineer currently pursuing an **MSc in Industrial Mathematics (M2I)** a
 
 Outside engineering, I built **ElReyGuiri** (2014–2025), a Formula 1 content brand reaching **525K+ combined followers** across Twitter (250K), Twitch (150K), YouTube (65K) and Instagram (60K).
 
-## 🏆 Highlights
-
-**Academic**
-- 🥇 **Matrícula de Honor 10/10** — BSc Thesis at University of Cantabria · *"Dynamic simulation tool for a Formula racing vehicle"* (MSC ADAMS)
-- 🎓 **Distinction 71.5/100** — MSc Dissertation at Oxford Brookes · *"Realistic Driver Model for Lap Time Simulation"*
-- 🎓 **Distinction 73.5/100** — Composite Design and Impact Modelling, Oxford Brookes
-- 🥇 **Matrícula de Honor 9.5/10** — Automobiles (BSc elective, University of Cantabria)
-- 📐 **EBAU 9.41/10** — University entrance exam (top tier nationally in Spain)
-
-**Motorsport & Community**
-- 🏎️ **Top 13 — F1 Esports Series 2019 Playoff** (qualified through Pro Draft, official Formula 1 esports competition)
-- 📺 **525K+ followers** built across multi-platform F1 content brand (2014–2025), participated in Twitch Rivals F1
-
 ## 🎓 Education
 
 - **2025 – 2026** · MSc Industrial Mathematics (M2I), *UPM* · Madrid
