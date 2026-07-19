@@ -2,18 +2,11 @@
 
 Defense engineer currently pursuing an **MSc in Industrial Mathematics (M2I)** at UPM, focused on numerical methods, optimization, scientific computing and applied machine learning. I split my time between Model-Based Systems Engineering at **Navantia** (defense industry), open-source AI/systems projects and applied research.
 
-Outside engineering, I built **ElReyGuiri** (2014–2025), a Formula 1 content brand reaching **525K+ combined followers** across Twitter (250K), Twitch (150K), YouTube (65K) and Instagram (60K).
-
 ## 🎓 Education
 
 - **2025 – 2026** · MSc Industrial Mathematics (M2I), *UPM* · Madrid
-  - Numerical methods, optimization, machine learning, scientific computing.
 - **2022 – 2023** · MSc Motorsport Engineering — *Merit*, *Oxford Brookes University* · Oxford
-  - Vehicle dynamics, CFD, control systems, lap time simulation, composite design.
-  - **Distinction** in MSc Dissertation and Composite Design & Impact Modelling.
 - **2018 – 2022** · BSc Mechanical Engineering — *Notable* (7.34/10), *University of Cantabria* · Santander
-  - **Matrícula de Honor 10/10** in Bachelor's Thesis. **Matrícula de Honor 9.5/10** in Automobiles.
-  - University entrance EBAU: 9.41/10.
 
 ## 🔬 Currently working on
 
