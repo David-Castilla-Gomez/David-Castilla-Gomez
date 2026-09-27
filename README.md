@@ -11,7 +11,6 @@ Defense engineer currently pursuing an **MSc in Industrial Mathematics (M2I)** a
 ## 🔬 Currently working on
 
 - **[Ingenioso Intelecto](https://github.com/David-Castilla-Gomez/ingenioso-intelecto)** · language models trained **from scratch** for Spanish Golden Age literature (*Siglo de Oro*), with a purpose-built stylistic-fidelity evaluation framework — all on consumer hardware. Paper in preparation.
-- **[Cornamusa](https://github.com/David-Castilla-Gomez/Cornamusa)** · a dynamic interpreted programming language in Spanish; stabilising v1.7+ and adding standard-library coverage.
 - **MBSE / Systems Engineering** · workflows with Capella, Siemens NX and Teamcenter at Navantia.
 
 ## 🛠️ Stack
